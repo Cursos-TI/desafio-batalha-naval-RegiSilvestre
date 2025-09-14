@@ -35,13 +35,6 @@ int main() {
     }
     
     
-    //tabuleiro[4][2] = NAVIO;
-    //tabuleiro[4][3] = NAVIO;
-    //tabuleiro[4][4] = NAVIO;
-    //tabuleiro[6][7] = NAVIO;
-    //tabuleiro[7][7] = NAVIO;
-    //tabuleiro[8][7] = NAVIO;
-
     printf(" TABULEIRO BATALHA NAVAL \n");
     // Imprime o cabeçalho das colunas com letras A-J
     printf("   ");// espaço para alinhar o cabeçalho com as linhas abaixo.
